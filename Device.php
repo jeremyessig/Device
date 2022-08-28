@@ -4,7 +4,7 @@
  * Check if the browser is on desktop or mobile 
  * Category: Singleton
  * @version 1.0
- * @author Jeremy Essig
+ * @link https://github.com/jeremyessig/Device/edit/master/Device.php
  */
 
 defined('ABSPATH') || exit;
