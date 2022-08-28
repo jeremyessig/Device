@@ -7,6 +7,7 @@
  * @link https://github.com/jeremyessig/Device
  */
 
+// Delete this line if your note on wordpress
 defined('ABSPATH') || exit;
 
 class Device
